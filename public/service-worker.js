@@ -3,7 +3,8 @@ const FILES_TO_CACHE = [
   "/index.html",
   "/style.css",
   "/index.js",
-  "/db.js"
+  "/db.js",
+  "./manifest.webmanifest"
 ];
 
 const CACHE_NAME = "static-cache-v2";
