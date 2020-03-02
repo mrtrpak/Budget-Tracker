@@ -9,6 +9,10 @@ I was able to set up the service worker to still be able to show the app even th
 ## Future
 In the future I want to add in full functionality while the app is offline so then no matter where the user is they can add in their transactions without having to worry about if they have internet or not. I have added in a service worker that does connect so from there I need to continue to work towards that goal.
 
+## Tools Usesd
+- express
+- mongoose
+
 ## Link
 [Heroku App Link](https://still-ravine-53114.herokuapp.com/)
 
