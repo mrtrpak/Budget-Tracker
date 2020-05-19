@@ -6,7 +6,12 @@ With this app I want a user to be able to track their budget so that they can be
 
 ## Table of Contents
 
-
+- [Implementations](#Implementations)
+- [Future](#Future)
+- [Tools Used](#Tools-Used)
+- [Link](#Link)
+- [Photos](#Photos)
+- [Gif](#Gif)
 
 ## Implementations
 
