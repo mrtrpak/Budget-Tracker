@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-With this app I want a user to be able to track their budget so that they can be better aware of their spending habits and have a better overview of where it is their money is going to.
+With this app I want a user is able to track their budget so that they can be better aware of their spending habits and have a better overview of where it is their money is going. With this app you can work offline as well to see both expenditure and income.
 
 ## Table of Contents
 
