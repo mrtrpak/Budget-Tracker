@@ -25,6 +25,8 @@ In the future I want to add in full functionality while the app is offline so th
 
 - express
 - mongoose
+- node
+- PWA
 
 ## Link
 
